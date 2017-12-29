@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## Welcome to AGAcoin
 
-You can use the [editor on GitHub](https://github.com/AGAcoin/AGAcoin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+AGAcoin is an open source peer-to-peer Litecoin-derived cryptocurrency for the Amiga community and others. Originally known as Amigacoin, the project is undergoing a community resurgence, so the information on this page is subject to change.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Coin Specifications
 
-### Markdown
+- Originally based on [Litecoin](https://litecoin.com/)
+- 2 minute block targets
+- 2 billion total coins
+- 100 to 1000 random coins per block
+- 1440 blocks to retarget difficulty
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In addition to being able to earn coins through mining, AGAcoin is distributed among Amiga fans (stay tuned for info).
 
-```markdown
-Syntax highlighted code block
+## Downloads
 
-# Header 1
-## Header 2
-### Header 3
+- [Executables for Linux (Ubuntu/Debian)](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_linux.zip)
+- [Executables for Mac OS X](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_mac.zip)
+- [Executables for Windows](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_windows.zip)
+- [AGAcoin on GitHub](https://github.com/AGAcoin)
+- [Original project GitHub](https://github.com/sonountaleban/amigacoin)
 
-- Bulleted
-- List
+## Exchanges
 
-1. Numbered
-2. List
+- [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=AGA_BTC)
 
-**Bold** and _Italic_ and `Code` text
+## Blockchain Explorers
 
-[Link](url) and ![Image](src)
+- https://prohashing.com/explorer/amigacoin
+- https://www.cryptopia.co.nz/CoinInfo/?coin=AGA
+
+## Discussion
+
+- [Bitcointalk](https://bitcointalk.org/index.php?topic=539974.0)
+- [Cryptocointalk](https://cryptocointalk.com/topic/12040-AGAcoin-aga-information)
+- [aros-exec](http://aros-exec.org/modules/newbb/viewtopic.php?viewmode=compact&order=DESC&topic_id=8695&forum=4&menumode=0)
+
+## Mining Pools
+
+- http://coincave.nl
+- http://gcpool.eu/amiga/public/index.php?page=statistics&action=pool
+
+## Mining Settings
+If you are an AROS x86 user, you can use [AMiner](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/AMiner.zip), a single-threaded CPU miner based on cpuminer. Otherwise you will need a Linux or Windows platform:on a PC without a powerful gfx card you should use [cpuminer](http://sourceforge.net/projects/cpuminer/) (on Windows use <a href="downloads/cgminer-3.7.2-windows.zip">cgminer 3.7.2</a>), instead of <a href="https://github.com/veox/sgminer">sgminer</a> (for ATI Radeon HD) or similar miner in the case with a proper gfx card.</br>
+
+cgminer/sgminer:
+```
+cgminer
+--scrypt -o stratum+tcp://poolAGAcoin.org:22113 -u yourAGAcoinaddress -p x
+-I 10
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+cpuminer:
+```
+minerd
+--url=stratum+tcp://poolAGAcoin.org:22113 --userpass=yourAGAcoinaddress:x
+```
 
-### Jekyll Themes
+## Current nodes
+```
+addnode=162.243.134.24:22112
+addnode=98.115.147.74:22112
+addnode=80.241.218.56:22112
+addnode=149.210.128.213:22112
+```
+more nodes may be available at: https://cryptocointalk.com/topic/12040-AGAcoin-aga-information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AGAcoin/AGAcoin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
