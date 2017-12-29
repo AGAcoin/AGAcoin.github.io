@@ -41,7 +41,7 @@ In addition to being able to earn coins through mining, AGAcoin is distributed a
 - http://gcpool.eu/amiga/public/index.php?page=statistics&action=pool
 
 ## Mining Settings
-If you are an AROS x86 user, you can use [AMiner](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/AMiner.zip), a single-threaded CPU miner based on cpuminer. Otherwise you will need a Linux or Windows platform:on a PC without a powerful gfx card you should use [cpuminer](http://sourceforge.net/projects/cpuminer/) (on Windows use <a href="downloads/cgminer-3.7.2-windows.zip">cgminer 3.7.2</a>), instead of <a href="https://github.com/veox/sgminer">sgminer</a> (for ATI Radeon HD) or similar miner in the case with a proper gfx card.</br>
+If you are an AROS x86 user, you can use [AMiner](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/AMiner.zip), a single-threaded CPU miner based on cpuminer. Otherwise you will need a Linux or Windows platform:on a PC without a powerful gfx card you should use [cpuminer](http://sourceforge.net/projects/cpuminer/) (on Windows use <a href="downloads/cgminer-3.7.2-windows.zip">cgminer 3.7.2</a>), instead of <a href="https://github.com/veox/sgminer">sgminer</a> (for ATI Radeon HD) or similar miner in the case with a proper gfx card.
 
 cgminer/sgminer:
 ```
