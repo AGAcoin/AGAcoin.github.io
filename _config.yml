@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: AGAcoin
 description: Open-source currency for the Amiga community and others
+
+show_downloads: true
+github.linux_url: http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_linux.zip
+github.mac_url: http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_mac.zip
+github.windows_url: http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_windows.zip
+github.source_url: https://github.com/sonountaleban/amigacoin
