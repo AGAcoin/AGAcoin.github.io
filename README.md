@@ -22,7 +22,7 @@ In addition to being able to earn coins through mining, AGAcoin is distributed a
 
 ## Exchanges
 
-- [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=AGA_BTC)
+- [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=AGA_LTC)
 
 ## Blockchain Explorers
 
