@@ -26,21 +26,33 @@ In addition to being able to earn coins through mining, AGAcoin is distributed a
 
 ## Blockchain Explorers
 
-- https://prohashing.com/explorer/amigacoin
-- https://www.cryptopia.co.nz/CoinInfo/?coin=AGA
+- [http://aga.dromland.se]
+- [https://prohashing.com/explorer/amigacoin]
+- [https://www.cryptopia.co.nz/CoinInfo/?coin=AGA]
 
 ## Discussion
 
-- [Bitcointalk](https://bitcointalk.org/index.php?topic=539974.0)
-- [Cryptocointalk](https://cryptocointalk.com/topic/12040-AGAcoin-aga-information)
-- [aros-exec](http://aros-exec.org/modules/newbb/viewtopic.php?viewmode=compact&order=DESC&topic_id=8695&forum=4&menumode=0)
+- [Bitcointalk.org](https://bitcointalk.org/index.php?topic=539974.0)
+- [Cryptocointalk.com](https://cryptocointalk.com/topic/12040-AGAcoin-aga-information)
+- [aros-exec.org](http://aros-exec.org/modules/newbb/viewtopic.php?viewmode=compact&order=DESC&topic_id=8695&forum=4&menumode=0)
+
+## Current Nodes
+```
+addnode=162.243.134.24:22112
+addnode=98.115.147.74:22112
+addnode=80.241.218.56:22112
+addnode=149.210.128.213:22112
+addnode=109.201.140.97:22112
+addnode=62.59.168.89:22112
+```
+more nodes may be available at: https://cryptocointalk.com/topic/12040-AGAcoin-aga-information
 
 ## Mining Pools
 
-- http://coincave.nl
-- http://gcpool.eu/amiga/public/index.php?page=statistics&action=pool
+- [http://coincave.nl]
+- [http://gcpool.eu/amiga/public/index.php?page=statistics&action=pool]
 
-## Mining Settings
+## Mining
 If you are an AROS x86 user, you can use [AMiner](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/AMiner.zip), a single-threaded CPU miner based on cpuminer. Otherwise you will need a Linux or Windows platform:on a PC without a powerful gfx card you should use [cpuminer](http://sourceforge.net/projects/cpuminer/) (on Windows use <a href="downloads/cgminer-3.7.2-windows.zip">cgminer 3.7.2</a>), instead of <a href="https://github.com/veox/sgminer">sgminer</a> (for ATI Radeon HD) or similar miner in the case with a proper gfx card.
 
 cgminer/sgminer:
@@ -56,12 +68,4 @@ minerd
 --url=stratum+tcp://poolAGAcoin.org:22113 --userpass=yourAGAcoinaddress:x
 ```
 
-## Current nodes
-```
-addnode=162.243.134.24:22112
-addnode=98.115.147.74:22112
-addnode=80.241.218.56:22112
-addnode=149.210.128.213:22112
-```
-more nodes may be available at: https://cryptocointalk.com/topic/12040-AGAcoin-aga-information
 
