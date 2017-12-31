@@ -45,7 +45,7 @@ addnode=seed1.agacoin.dk:22112
 addnode=seed2.agacoin.dk:22112
 ```
 
-You can also try these nodes, the bottom two is the same as seed2 and seed1.
+You can also try these nodes, the bottom two are the same as seed2 and seed1.
 
 ```
 addnode=162.243.134.24:22112
