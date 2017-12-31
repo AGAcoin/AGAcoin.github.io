@@ -37,6 +37,16 @@ In addition to being able to earn coins through mining, AGAcoin is distributed a
 - [aros-exec.org](http://aros-exec.org/modules/newbb/viewtopic.php?viewmode=compact&order=DESC&topic_id=8695&forum=4&menumode=0)
 
 ## Current Nodes
+
+The seed nodes are:
+
+```
+addnode=seed1.agacoin.dk:22112
+addnode=seed2.agacoin.dk:22112
+```
+
+You can also try these nodes, the bottom two is the same as seed2 and seed1.
+
 ```
 addnode=162.243.134.24:22112
 addnode=98.115.147.74:22112
