@@ -1,6 +1,6 @@
 ## Amiga Links, 2018
 
-In future, AGAcoin plans to connect with the Amiga community in a greater capacity through a community outreach programme. In the meantime, the following links give just a small taste of the latest that the modern Amiga community has to offer:
+In future, AGAcoin plans to connect with the Amiga community in a greater capacity through a community outreach programme. In the meantime, the following links give just a small taste of the latest that today's Amiga community has to offer:
 
 ### Hardware Projects
 
