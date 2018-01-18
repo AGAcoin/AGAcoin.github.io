@@ -41,7 +41,7 @@ In future, AGAcoin plans to connect with the Amiga community in a greater capaci
 - [AROS-EXEC](http://aros-exec.org) - *forum for AROS operating system and general Amiga discussion*
 - [Morph Zone](https://morph.zone) - *forum for MorphOS and general Amiga discussion*
 - [Lemon Amiga](http://www.lemonamiga.com) - *lots of information about classic Amiga games*
-- [Pouët.net](http://www.pouet.net/prodlist.php?platform%5B%5D=Amiga+OCS%2FECS&page=1) - *looong list of demos for Amiga OCS/ECS (A500/A200)*
+- [Pouët.net](http://www.pouet.net/prodlist.php?platform%5B%5D=Amiga+OCS%2FECS&page=1) - *looong list of demos for Amiga OCS/ECS (A500/A2000)*
 - [Pouët.net](http://www.pouet.net/prodlist.php?platform%5B%5D=Amiga+AGA&page=1) - *same as above but for Amigas with the AGA chipset*
 
 ### Online Retailers
