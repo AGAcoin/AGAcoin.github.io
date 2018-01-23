@@ -17,7 +17,7 @@ In addition to being able to earn coins through mining, AGAcoin is distributed a
 - [Executables for Linux (Ubuntu/Debian)](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_linux.zip)
 - [Executables for Mac OS X](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_mac.zip)
 - [Executables for Windows](http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_windows.zip)
-- [Paper Wallet](https://github.com/AGAcoin/WalletGenerator.net/releases/latest)
+- [Paper Wallet](https://walletgenerator.net/?currency=AGAcoin)
 - [AGAcoin on GitHub](https://github.com/AGAcoin)
 - [Original project GitHub](https://github.com/sonountaleban/amigacoin)
 
