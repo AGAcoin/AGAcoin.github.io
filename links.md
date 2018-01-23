@@ -31,6 +31,7 @@ In future, AGAcoin plans to connect with the Amiga community in a greater capaci
 - [Viva Amiga, 2016](http://amigafilm.com)
 - [From Bedrooms to Billions - The Amiga Years, 2016](http://www.frombedroomstobillions.com)
 - [From Bedrooms to Billions - Video Game Documentary, 2014](http://www.frombedroomstobillions.com)
+- [Doomed: The Embers of Amiga FPS](https://www.youtube.com/watch?v=Tv6aJRGpz_A)
 
 ### Websites/Forums
 
