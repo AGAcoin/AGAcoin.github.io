@@ -27,7 +27,7 @@ In addition to being able to earn coins through mining, AGAcoin is distributed a
 
 ## Blockchain Explorers
 
-- [aga.dromland.se](http://aga.dromland.se)
+- <del>[aga.dromland.se](http://aga.dromland.se)</del>
 - [prohashing.com](https://prohashing.com/explorer/amigacoin)
 - [cryptopia.co.nz](https://www.cryptopia.co.nz/CoinInfo/?coin=AGA)
 
