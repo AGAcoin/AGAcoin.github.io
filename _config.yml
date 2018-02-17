@@ -6,5 +6,5 @@ show_downloads: true
 linux_url: http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_linux.zip
 mac_url: http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_mac.zip
 windows_url: http://web.archive.org/web/20161028115121/http://www.amigacoin.org/downloads/amigacoin_windows.zip
-source_url: https://github.com/sonountaleban/amigacoin
+source_url: https://github.com/AGAcoin
 explorer_url: http://explorer.agacoin.dk:3003
