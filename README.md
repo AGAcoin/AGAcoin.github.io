@@ -1,6 +1,6 @@
 ## Welcome to AGAcoin
 
-AGAcoin is an open source peer-to-peer Litecoin-derived cryptocurrency for the [Commodore Amiga](https://en.wikipedia.org/wiki/Amiga) community and others. Originally known as Amigacoin, the project is undergoing a community resurgence, so the information on this page is subject to change.
+AGAcoin is an open source peer-to-peer Litecoin-derived cryptocurrency intended to benefit the [Commodore Amiga](https://en.wikipedia.org/wiki/Amiga) community and others. Originally known as Amigacoin, the project is undergoing a community resurgence, so the information on this page is subject to change.
 
 ### Coin Specifications
 
