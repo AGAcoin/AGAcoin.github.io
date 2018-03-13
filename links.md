@@ -9,6 +9,7 @@ In future, AGAcoin plans to connect with the Amiga community in a greater capaci
 - [Apollo Accelerators](http://www.apollo-accelerators.com) - *range of "vampire" accelerators for classic Amiga*
 - [Commodore A1200 Reloaded](http://wiki.icomp.de/wiki/Commodore_A1200_Reloaded) - *new Amiga 1200-like motherboard*
 - [Terriblefire](https://github.com/terriblefire/tf520) - *open-source 68020 accelerator for Amiga 500*
+- [MNT VA2000](https://github.com/mntmn/amiga2000-gfxcard) - *an Open Source Amiga 2/3/4000 Graphics Card*
 
 ### Software / OS
 
